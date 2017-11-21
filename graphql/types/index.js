@@ -1,5 +1,5 @@
 import userType from './user';
-import postType from './user';
+import postType from './post';
 
 export default {
   userType,
