@@ -15,7 +15,7 @@
     "express-graphql": "^0.6.3",
     "graphql": "^0.9.1",
     "mongoose": "^5.7.7",
-    "node-fetch": "^1.6.3"
+    "node-fetch": "^2.6.1"
   },
   "devDependencies": {
     "babel-cli": "^6.23.0",
